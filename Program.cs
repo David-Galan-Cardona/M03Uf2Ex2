@@ -1,5 +1,5 @@
 ﻿using System;
-namespace M03.UF2
+namespace M03_UF2
 {
     class Ex2
     {
