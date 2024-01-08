@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace M03.UF2
+namespace M03UF2
 {
     class Ex2
     {
